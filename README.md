@@ -1,5 +1,5 @@
-# Schema, vecka 7
-###### JavaScript, vecka 6 av 8
+# Schema, vecka 2
+###### JavaScript, vecka 1 av 8
 
 ## Introduktion
 
