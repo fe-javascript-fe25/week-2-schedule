@@ -22,6 +22,9 @@ Under denna inledande vecka kommer vi inleda med att repetera de koncept vi tjuv
 
 ### Inspelade föreläsningar
 
+* 01 - [Kursintro](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQAiq8VFQ828RYdz_XS_tbQwAb-oOhfV1UgQ5Zz67znGGVE?e=iy7o4o)
+* 02 - [Genomgång av JS Bascis Bootcamp](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBWbq_nemInSrJjtwenH3dBAYY9f-AxLLvhOnWhOrdgs6I?e=dUWnRm)
+* 03 - [Funktioner](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQDX8-DbZudlQLnjQ-BWF27zAZzqw8ZWTWwcFiejO6DmFnQ?e=xbTWXz)
 
 ### Lektionsrepon
 
