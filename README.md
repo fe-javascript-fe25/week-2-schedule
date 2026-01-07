@@ -25,6 +25,7 @@ Under denna inledande vecka kommer vi inleda med att repetera de koncept vi tjuv
 
 ### Lektionsrepon
 
+* [7 jan](https://github.com/fe-javascript-fe25/week-2-lecture-7-jan)
 
 ### Filmer
 
